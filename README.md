@@ -21,3 +21,8 @@
      Which college major has the lowest starting salary and how much do graduates earn after university?
 
      Which college major has the lowest mid-career salary and how much can people expect to earn with this degree? 
+     
+                        **    Lowest Risk Majors**
+
+                    A low-risk major is a degree where there is a small difference between the lowest and highest salaries. 
+                    In other words, if the difference between the 10th percentile and the 90th percentile earnings of your major is small, then you can be more certain                       about your salary after you graduate.

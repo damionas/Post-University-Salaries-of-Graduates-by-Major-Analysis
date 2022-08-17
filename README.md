@@ -15,3 +15,9 @@
             What are the lowest risk college majors from an earnings standpoint?
 
             Do business, STEM (Science, Technology, Engineering, Mathematics) or HASS (Humanities, Arts, Social Science) degrees earn more on average?
+            
+     What college major has the highest mid-career salary? How much do graduates with this major earn? (Mid-career is defined as having 10+ years of experience).
+
+     Which college major has the lowest starting salary and how much do graduates earn after university?
+
+     Which college major has the lowest mid-career salary and how much can people expect to earn with this degree? 
